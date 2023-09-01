@@ -1,0 +1,144 @@
+* {
+  font-family: sans-serif;
+  text-transform: capitalize;
+}
+/* div awal */
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.row {
+  width: 70%;
+}
+
+.col {
+  display: flex;
+  justify-content: space-around;
+}
+
+/* css tampilan card 1*/
+
+.card {
+  padding: 10px;
+  width: 270px;
+}
+.header {
+  border: 1px solid black;
+  background-color: cornflowerblue;
+  color: whitesmoke;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.content div {
+  border: 1px solid black;
+}
+
+.content p {
+  padding-left: 10px;
+}
+
+.btn {
+  border: 1px solid black;
+  display: flex;
+  justify-content: center;
+}
+
+.tombol {
+  width: 100%;
+  margin-top: 5px;
+  padding: 10px 70px;
+  background-color: cornflowerblue;
+  border: none;
+  color: whitesmoke;
+}
+
+h3 {
+  margin-bottom: 0;
+}
+
+/* css tampilan card 2 */
+.card2 {
+  padding: 10px;
+  width: 270px;
+}
+.header2 {
+  border: 1px solid black;
+  background-color: cornflowerblue;
+  color: whitesmoke;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.content2 div {
+  border: 1px solid black;
+}
+
+.content2 p {
+  padding-left: 10px;
+}
+
+.btn2 {
+  border: 1px solid black;
+  display: flex;
+  justify-content: center;
+}
+
+.tombol2 {
+  width: 100%;
+  margin-top: 5px;
+  padding: 10px 70px;
+  background-color: cornflowerblue;
+  border: none;
+  color: whitesmoke;
+}
+
+h3 {
+  margin-bottom: 0;
+}
+
+/* css tampilan card 3 */
+.card3 {
+  padding: 10px;
+  width: 270px;
+}
+.header3 {
+  background-color: cornflowerblue;
+  color: whitesmoke;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.content3 {
+  border: 1px solid black;
+}
+
+.content3 p {
+  margin: 10px;
+  border-bottom: 1px solid gray;
+}
+
+.btn3 {
+  display: flex;
+  justify-content: center;
+}
+
+.tombol3 {
+  width: 100%;
+  margin: 5px;
+  padding: 10px 70px;
+  background-color: cornflowerblue;
+  border: none;
+  color: whitesmoke;
+}
+
+h3 {
+  margin-bottom: 0;
+}

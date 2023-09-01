@@ -1,0 +1,14 @@
+.header {
+  background-image: url("./images/header.jpg");
+  color: whitesmoke;
+}
+
+.navigation {
+  background-color: aqua;
+}
+
+.navigation a {
+  display: flex;
+  justify-content: center;
+  margin-right: 3rem;
+}

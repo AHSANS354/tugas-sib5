@@ -1,0 +1,94 @@
+* {
+  font-family: sans-serif;
+  text-transform: capitalize;
+}
+/* div awal */
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.row {
+  width: 70%;
+}
+
+.col {
+  display: flex;
+  justify-content: space-around;
+}
+
+.card {
+  padding: 10px;
+  width: 270px;
+}
+
+.content {
+  border: 1px solid black;
+  padding: 10px;
+}
+
+.content p {
+  border-bottom: 1px solid gray;
+  padding: 10px;
+}
+
+.btn {
+  display: flex;
+  justify-content: center;
+}
+
+/* css tampilan card 1*/
+
+.header {
+  background-color: cornflowerblue;
+  color: whitesmoke;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.tombol {
+  font-weight: bold;
+  padding: 10px 70px;
+  background-color: cornflowerblue;
+  border: none;
+  color: whitesmoke;
+}
+
+/* css tampilan card 2 */
+.header2 {
+  background-color: orange;
+  color: whitesmoke;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.tombol2 {
+  font-weight: bold;
+  padding: 10px 70px;
+  background-color: orange;
+  border: none;
+  color: whitesmoke;
+}
+
+/* css tampilan card 3 */
+
+.header3 {
+  background-color: green;
+  color: whitesmoke;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.tombol3 {
+  font-weight: bold;
+  padding: 10px 70px;
+  background-color: green;
+  border: none;
+  color: whitesmoke;
+}

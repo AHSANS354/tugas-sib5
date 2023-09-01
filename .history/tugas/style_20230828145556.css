@@ -1,0 +1,35 @@
+a {
+  text-decoration: none;
+}
+
+/* css halaman header */
+.header {
+  background-image: url("./images/header.jpg");
+  color: whitesmoke;
+}
+
+/* css halaman navigation */
+.navigation {
+  display: flex;
+  justify-content: center;
+  background-color: aqua;
+}
+
+.navigation a {
+  margin-right: 3rem;
+  margin-top: 0.5rem;
+  font-size: 18px;
+  font-weight: bold;
+  color: black;
+}
+
+.navigation a:hover {
+  color: blue;
+  text-decoration: underline;
+}
+
+/* css halaman content */
+.content {
+  display: flex;
+  justify-content: center;
+}

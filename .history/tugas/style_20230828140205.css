@@ -1,0 +1,19 @@
+.header {
+  background-image: url("./images/header.jpg");
+  color: whitesmoke;
+}
+
+.navigation {
+  display: flex;
+  justify-content: center;
+  background-color: aqua;
+}
+
+.navigation a {
+  margin-right: 3rem;
+  margin-top: 0.5rem;
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: bold;
+  color: black;
+}

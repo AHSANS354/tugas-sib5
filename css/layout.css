@@ -1,0 +1,24 @@
+.header {
+  background-image: url("../img/gambar.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 20px;
+  text-align: center;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: blue;
+}
+.navbar a {
+  float: left;
+  display: block;
+  color: whitesmoke;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.navbar a:hover {
+  background-color: whitesmoke;
+  color: black;
+}
