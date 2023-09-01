@@ -1,0 +1,38 @@
+th {
+  border: 2px solid #000;
+}
+
+td {
+  border: 2px solid #000;
+}
+
+.card {
+  border: 1px solid black;
+  padding: 10px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.row {
+  width: 50%;
+}
+
+.col {
+  display: flex;
+  justify-content: space-around;
+}
+
+.header {
+  border-bottom: 1px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.content div {
+  border-bottom: 1px solid black;
+}

@@ -1,0 +1,17 @@
+.col {
+  border: 1px solid #000;
+  width: 350px;
+  height: 100px;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-transform: capitalize;
+}
+
+h3 p {
+  margin: 0 !important;
+}

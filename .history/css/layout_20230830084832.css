@@ -1,0 +1,8 @@
+.header {
+  background-image: url("../img/gambar.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 20px;
+  text-align: center;
+  color: whitesmoke;
+}
